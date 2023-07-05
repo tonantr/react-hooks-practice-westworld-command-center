@@ -212,4 +212,4 @@ attempt. It would be awesome if you could share the way you solved it!
 
 ## Contributing
 
-If you find any bugs or have some suggestions, send a PR and we'll try to incorporate it!
+If you find any bugs or have some suggestions, send a PR and we'll try to incorporate it!!!
